@@ -1,1 +1,3 @@
 I rolled a NAT 1
+
+I rolled a NAT 20
