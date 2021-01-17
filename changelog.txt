@@ -6,7 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ## [V1.0.0] 2021-01-17
+## [v2.0.0] 2021-01-17
 ### Added
 
 * Added initial documentation to the project
 [@gutitayl](https://github.com/gutitayl)
+
+**Added new files and edited exsisting ones for the project
